@@ -58,6 +58,25 @@
       { title: "ឧទុម្ពរិកសូត្រទី២",   bookNo: 11, pageStart: 742 },
       { title: "អដ្ឋកថា ឧទុម្ពរិកសូត្រទី២",   bookNo: 11, pageStart: 777 },
 
+      { title: "ចក្កវត្តិសូត្រទី៣",   bookNo: 12, pageStart: 2 },
+      { title: "អដ្ឋកថា​​​ ចក្កវត្តិសូត្រទី៣",   bookNo: 12, pageStart: 37 },
+      { title: "អគ្គញ្ញសូត្រទី៤",   bookNo: 12, pageStart: 64 },
+      { title: "អដ្ឋកថា​​​ អគ្គញ្ញសូត្រទី៤",   bookNo: 12, pageStart: 94 },
+      { title: "សម្បសាទនីយសូត្រទី៥",   bookNo: 12, pageStart: 122 },
+      { title: "អដ្ឋកថា​​​ សម្បសាទនីយសូត្រទី៥",   bookNo: 12, pageStart: 151 },
+      { title: "បាសាទិកសូត្រទី៦",   bookNo: 12, pageStart: 215 },
+      { title: "អដ្ឋកថា​​​ បាសាទិកសូត្រទី៦",   bookNo: 12, pageStart: 255 },
+      { title: "លក្ខណសូត្រទី៧",   bookNo: 12, pageStart: 279 },
+      { title: "អដ្ឋកថា​​​ លក្ខណសូត្រទី៧",   bookNo: 12, pageStart: 329 },
+      { title: "សិង្គាលសូត្រទី៨",   bookNo: 12, pageStart: 374 },
+      { title: "អដ្ឋកថា​​​ សិង្គាលសូត្រទី៨",   bookNo: 12, pageStart: 394 },
+      { title: "អាដានាដិយសូត្រទី៩",   bookNo: 12, pageStart: 430 },
+      { title: "អដ្ឋកថា​​​ អាដានាដិយសូត្រទី៩",   bookNo: 12, pageStart: 452 },
+      { title: "សង្គីតិសូត្រទី១០",   bookNo: 12, pageStart: 474 },
+      { title: "អដ្ឋកថា​​​ សង្គីតិសូត្រទី១០",   bookNo: 12, pageStart: 567 },
+      { title: "ទសុត្តរសូត្រទី១១",   bookNo: 12, pageStart: 738 },
+      { title: "អដ្ឋកថា​​​ ទសុត្តរសូត្រទី១១",   bookNo: 12, pageStart: 815 },
+
     ];
 
     const normalized = entries
