@@ -19,6 +19,25 @@
       { title: "អដ្ឋកថា មហាលិសូត្រ",      bookNo: 9, pageStart: 842 },
       { title: "ជាលិយសូត្រទី៧",   bookNo: 9, pageStart: 855 },
       { title: "អដ្ឋកថា ជាលិយសូត្រ",   bookNo: 9, pageStart: 858 },
+
+      { title: "មហាសីហនាទសូត្រទី៨",   bookNo: 9, pageStart: 858 },
+      { title: "អដ្ឋកថា​​​ មហាសីហនាទសូត្រទី៨",   bookNo: 9, pageStart: 858 },
+      { title: "បោដ្ឋបាទសូត្រទី​៩",   bookNo: 9, pageStart: 858 },
+      { title: "អដ្ឋកថា​​ បោដ្ឋបាទសូត្រទី​៩",   bookNo: 9, pageStart: 858 },
+      { title: "សុភសូត្រទី១០",   bookNo: 9, pageStart: 858 },
+      { title: "អដ្ឋកថា​ សុភសូត្រទី១០",   bookNo: 9, pageStart: 858 },
+      { title: "កេវដ្តសូត្រទី១១",   bookNo: 9, pageStart: 858 },
+      { title: "អដ្ឋកថា កេវដ្តសូត្រទី១១",   bookNo: 9, pageStart: 858 },
+      { title: "លោហិច្ចសូត្រទី១២",   bookNo: 9, pageStart: 858 },
+      { title: "អដ្ឋកថា លោហិច្ចសូត្រទី១២",   bookNo: 9, pageStart: 858 },
+      { title: "តេវិជ្ជសូត្រទី១៣",   bookNo: 9, pageStart: 858 },
+      { title: "អដ្ឋកថា តេវិជ្ជសូត្រទី១៣",   bookNo: 9, pageStart: 858 },
+      { title: "មហាបទានសូត្រទី១",   bookNo: 9, pageStart: 858 },
+      { title: "អដ្ឋកថា មហាបទានសូត្រទី១",   bookNo: 9, pageStart: 858 },
+      { title: "មហានិទានសូត្រទី២",   bookNo: 9, pageStart: 858 },
+      { title: "អដ្ឋកថា មហានិទានសូត្រទី២",   bookNo: 9, pageStart: 858 },
+      { title: "មហាបរិនិព្វានសូត្រទី៣",   bookNo: 9, pageStart: 858 },
+      { title: "អដ្ឋកថា មហាបរិនិព្វានសូត្រទី៣",   bookNo: 9, pageStart: 858 },
     ];
 
     const normalized = entries
