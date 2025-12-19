@@ -38,6 +38,26 @@
       { title: "អដ្ឋកថា មហានិទានសូត្រទី២",   bookNo: 10, pageStart: 495 },
       { title: "មហាបរិនិព្វានសូត្រទី៣",   bookNo: 10, pageStart: 556 },
       { title: "អដ្ឋកថា មហាបរិនិព្វានសូត្រទី៣",   bookNo: 10, pageStart: 704 },
+
+      { title: "មហាសុទស្សនសូត្រទី៤",   bookNo: 11, pageStart: 2 },
+      { title: "អដ្ឋកថា​​​ មហាសុទស្សនសូត្រទី៤",   bookNo: 11, pageStart: 44 },
+      { title: "ជនវសភសូត្រទី៥",   bookNo: 11, pageStart: 80 },
+      { title: "អដ្ឋកថា​​ ជនវសភសូត្រទី៥",   bookNo: 11, pageStart: 113 },
+      { title: "មហាគោវិន្ទសូត្រទី៦",   bookNo: 11, pageStart: 130 },
+      { title: "អដ្ឋកថា​ មហាគោវិន្ទសូត្រទី៦",   bookNo: 11, pageStart: 179 },
+      { title: "មហាសមយសូត្រទី៧",   bookNo: 11, pageStart: 224 },
+      { title: "អដ្ឋកថា មហាសមយសូត្រទី៧",   bookNo: 11, pageStart: 240 },
+      { title: "សក្កបញ្ហាសូត្រទី៨",   bookNo: 11, pageStart: 285 },
+      { title: "អដ្ឋកថា សក្កបញ្ហាសូត្រទី៨",   bookNo: 11, pageStart: 325 },
+      { title: "មហាសតិបដ្ឋានសូត្រទី៩",   bookNo: 11, pageStart: 409 },
+      { title: "អដ្ឋកថា មហាសតិបដ្ឋានសូត្រទី៩",   bookNo: 11, pageStart: 453 },
+      { title: "បាយាសិសូត្រទី១០",   bookNo: 11, pageStart: 585 },
+      { title: "អដ្ឋកថា បាយាសិសូត្រទី១០",   bookNo: 11, pageStart: 644 },
+      { title: "បាដិកសូត្រទី១",   bookNo: 11, pageStart: 659 },
+      { title: "អដ្ឋកថា បាដិកសូត្រទី១",   bookNo: 11, pageStart: 712 },
+      { title: "ឧទុម្ពរិកសូត្រទី២",   bookNo: 11, pageStart: 742 },
+      { title: "អដ្ឋកថា ឧទុម្ពរិកសូត្រទី២",   bookNo: 11, pageStart: 777 },
+
     ];
 
     const normalized = entries
